@@ -1,0 +1,48 @@
+@charset "utf-8"
+ body{
+    background-color: rgb(14, 1, 1);
+    color: rgb(241, 37, 37);
+    font-family:Arial,Verdna,sans-serif;
+ }
+ 
+ h1{
+    background-color: black;
+    color: aqua;
+    line-height: 200%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 3px 3px 5px #ccccccc;
+ }
+
+ h2{
+    background-color: black;
+    color: rgb(73, 226, 43);
+     text-align: center;
+ }
+
+ p{
+    font-size: .90em;
+    text-indent: 3em;
+    background-color: royalblue;
+ }
+
+ p.fundo{
+   background-color: sandybrown;
+ }
+
+ ul{
+    font-weight: bold;
+    color: orange;
+ }
+
+ footer{
+    color: blueviolet;
+    font-size: .75em;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ .cor_texto{
+    color: #C70000;
+ }
+
+ 
